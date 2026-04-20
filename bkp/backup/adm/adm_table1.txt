@@ -1,0 +1,1 @@
+select * from adm_table1 limit 1;
