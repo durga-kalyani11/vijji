@@ -1,0 +1,1 @@
+create user username_a identified by pwd;
